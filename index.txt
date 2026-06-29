@@ -1,0 +1,994 @@
+﻿Pestaña 1
+Contenido Julio 2026 — Calendario, Scripts y Copies
+@kodohr_ + @busquedas.kodo
+
+
+________________
+
+
+Nota conceptual antes de arrancar
+Dos correcciones que aplicamos en todo este documento:
+
+
+1. No "procesos de personas" — operaciones. Kodo no trabaja solo desde RRHH. Trabaja en el diseño de las operaciones que permiten que un negocio crezca: estructura de roles, flujos de trabajo, gestión de proyectos, capacidad de equipo. El foco es operativo, no solo "la gente".
+
+
+2. Se elimina el concepto "lo que parece cultura a veces es desorden". Reemplazado por un contenido más honesto y experto: por qué el crecimiento rápido sin rediseño operativo quema equipos.
+
+
+________________
+
+
+Calendario Resumen — Julio 2026
+Fecha
+	Cuenta
+	Pieza
+	Tipo
+	Lun 30/6
+	@kodohr_
+	Tu empresa creció pero opera igual
+	🎬 Reel + 📲 Historias
+	Mar 1/7
+	@busquedas.kodo
+	El ATS te filtra antes de que nadie te lea
+	🎬 Reel + 📲 Historias
+	Jue 3/7
+	@kodohr_
+	Cápsula IA — por qué ya no es opcional
+	🎬 Reel + 📲 Historias
+	Vie 4/7
+	@busquedas.kodo
+	Dudás de vos — lógico. Y está mal.
+	🎬 Reel + 📲 Historias
+	Lun 7/7
+	@kodohr_
+	Cápsula IA — qué vas a aprender
+	🎬 Reel + 📚 Carrusel + 📲 Historias
+	Mar 8/7
+	@busquedas.kodo
+	Split: lo que creés vs lo que pasa
+	🎬 Reel + 📲 Historias
+	Jue 10/7
+	@kodohr_
+	El costo invisible del desorden operativo
+	📚 Carrusel + 📲 Historias
+	Vie 11/7
+	@busquedas.kodo
+	Humor: modo búsqueda laboral
+	🎬 Reel + 📲 Historias
+	Lun 14/7
+	@kodohr_
+	Hoy es la Cápsula IA 🚀
+	📲 Historias + recap
+	Mar 15/7
+	@busquedas.kodo
+	Esto mata tu CV en 10 segundos
+	📚 Carrusel + 📲 Historias
+	Mié 16/7
+	@kodohr_
+	Qué mira Kodo cuando entra a una empresa
+	🎬 Reel + 📲 Historias
+	Jue 17/7
+	@busquedas.kodo
+	Presentación Kodo Táctica
+	🎬 Reel + 📲 Historias
+	Vie 18/7
+	@kodohr_
+	Se viene Cápsula Entrevistas — 4 agosto
+	📚 Carrusel + 📲 Historias
+	Lun 21/7
+	@kodohr_
+	Servicios: qué hacemos exactamente
+	🎬 Reel + 📲 Historias
+	Mar 22/7
+	@busquedas.kodo
+	El mercado oculto
+	📚 Carrusel + 📲 Historias
+	Mié 23/7
+	@kodohr_
+	Caso Atrezzo
+	🎬 Reel + 📲 Historias
+	Jue 24/7
+	@busquedas.kodo
+	Kodo Táctica — inscripciones abiertas
+	🎬 Reel + 📲 Historias
+	Vie 25/7
+	@kodohr_
+	Por qué el crecimiento rápido quema equipos
+	📚 Carrusel + 📲 Historias
+	
+
+⚠️ 9 de julio (Feriado): No publicar. Si se quiere aprovechar el feriado, solo historias de baja fricción o nada.
+
+
+Total: 18 piezas principales + historias que acompañan cada una.
+
+
+________________
+
+
+
+
+SEMANA 1 | 30 jun — 6 jul
+Foco: Establecer autoridad + encender la urgencia de la cápsula de IA
+
+
+________________
+
+
+
+
+
+
+@busquedas.kodo | Martes 1/7
+🎬 Reel — El ATS te filtra antes de que nadie te lea
+SCRIPT (40 seg):
+
+
+Founder a cámara, tono cómplice — no alarmista.
+
+
+"Mandaste el CV. Lo revisaste cuatro veces. La experiencia está, el formato está, todo está.
+
+
+Y no te llamaron.
+
+
+¿Sabés qué pasó?
+
+
+El 75% de las empresas medianas y grandes usan un sistema llamado ATS — Applicant Tracking System. Un software que lee tu CV antes que cualquier humano y decide si seguís en la pila o no.
+
+
+Y elimina CVs perfectamente válidos por cosas como columnas, tablas, fotos, un objetivo demasiado genérico, o simplemente porque no encontró las palabras exactas que buscaba.
+
+
+No te rechazó un reclutador. Te rechazó un algoritmo.
+
+
+Esa es la primera regla del juego. Y hay muchas más."
+
+
+COPY:
+
+
+Mandaste el CV. Era bueno. Y no te llamaron.
+
+
+Antes de que pienses que el problema sos vos, entendé cómo funciona el sistema:
+
+
+El 75% de las empresas medianas y grandes usan ATS — un software que lee tu CV antes de que llegue a ojos humanos. Y descarta perfiles por cosas concretas y evitables.
+
+
+¿Qué lo hace fallar? → Columnas y tablas que el sistema no puede leer → Foto en el CV → Objetivo genérico sin palabras clave → Formato incompatible → Lenguaje que no matchea con la búsqueda exacta
+
+
+No te rechazó un reclutador. Te rechazó un algoritmo que nadie te explicó.
+
+
+Guardá este video. Y si querés aprender a navegarlo, escribinos 👇
+
+
+📲 HISTORIAS:
+
+
+* H1 (antes del reel): "¿Sabías que el 75% de las empresas usan ATS para filtrar CVs?" → encuesta: Sí / No tenía idea
+* H2 (después del reel): Mini infografía — "5 cosas que el ATS descarta automáticamente" (lista rápida)
+* H3: Sticker de DM — "¿Querés que revisemos tu CV?"
+
+
+________________
+
+
+@busquedas.kodo | Viernes 4/7
+🎬 Reel — Dudás de vos después de 3 semanas sin respuesta. Lógico. Y está mal.
+SCRIPT (40 seg):
+
+
+Founder a cámara. Tono cercano, empático pero sin palmaditas.
+
+
+"Pasaron tres semanas. Ninguna llamada. Ningún mail. Y ya estás cuestionando todo.
+
+
+¿Será el CV? ¿Me estoy postulando mal? ¿O simplemente no soy suficiente para este mercado?
+
+
+Pará un segundo.
+
+
+Los procesos de selección en Argentina duran entre 4 y 12 semanas en promedio. Muchas empresas no dan feedback. Los sistemas automáticos filtran antes de que nadie te lea.
+
+
+El silencio no es un juicio sobre tu valor. Es una falla estructural del proceso.
+
+
+Lo que sí podemos cambiar es cómo navegás ese sistema. Porque hay candidatos que entienden las reglas — y hay candidatos que aplican a ciegas. La diferencia no es el talento."
+
+
+COPY:
+
+
+Tres semanas sin respuesta y la cabeza empieza a ir sola.
+
+
+¿Será el CV? ¿Será mi experiencia? ¿Será que no soy suficiente para este mercado?
+
+
+Escuchá esto: los procesos de selección en Argentina duran entre 4 y 12 semanas en promedio. Muchas empresas no dan feedback. Los sistemas automáticos filtran antes de que nadie te lea.
+
+
+El silencio no es un juicio sobre tu valor. Es una falla estructural del proceso.
+
+
+Lo que sí podemos hacer es enseñarte a navegar ese sistema — porque los candidatos que entienden cómo funciona tienen resultados muy diferentes a los que aplican a ciegas.
+
+
+¿Cómo estás manejando este momento? Comentá, que esto lo estamos hablando 👇
+
+
+📲 HISTORIAS:
+
+
+* H1: "¿Cuántas semanas llevan tus postulaciones sin respuesta?" → caja de respuesta abierta
+* H2: Texto — "El problema no sos vos. Es que nadie te explicó las reglas del juego."
+* H3: "¿Querés aprenderlas?" → DM o link en bio
+
+
+________________
+
+
+
+
+________________
+
+
+SEMANA 2 | 6 jul — 13 jul
+Foco: Urgencia máxima para la cápsula de IA (14/7) + construir comunidad en B2C
+
+
+⚠️ 9  y 10 de julio = Feriado. No publicar.
+
+
+________________
+
+
+@busquedas.kodo | Martes 8/7
+🎬 Reel — Split: lo que creés que pasa vs. lo que realmente pasa
+FORMATO: Split screen. Dos mitades de pantalla, dos realidades.
+
+
+LADO A — Lo que creés:
+
+
+"Un reclutador abre tu CV, lo lee con atención, considera tu trayectoria y decide si seguís."
+
+
+LADO B — Lo que realmente pasa:
+
+
+"Un sistema automatizado lo escanea en menos de 10 segundos. Si no encuentra las palabras exactas que busca, no llega a ojos humanos."
+
+
+CONTINUACIÓN (founder a cámara o texto):
+
+
+"El proceso de selección no empieza cuando te llama un reclutador. Empieza cuando el algoritmo decide si tu CV sigue en la pila o no. La mayoría de los candidatos no sabe que eso existe."
+
+
+COPY:
+
+
+Lo que creés que pasa cuando mandás el CV: Un reclutador lo abre, lo lee y considera tu experiencia.
+
+
+Lo que realmente pasa: Un sistema automatizado lo escanea en menos de 10 segundos. Si no encuentra las palabras exactas, no llega a ojos humanos.
+
+
+El proceso de selección no empieza cuando te llama alguien. Empieza antes, con un filtro que la mayoría no sabe que existe.
+
+
+¿Sabías que esto pasaba? Comentá 👇
+
+
+📲 HISTORIAS:
+
+
+* H1: Encuesta — "¿Sabías que los ATS filtran CVs antes de que los vea un humano?" → Sí / No
+* H2: "Mañana: los errores concretos que hacen que tu CV no pase ese filtro." — teaser del carrusel de la semana 3
+
+
+________________
+
+
+* 
+
+________________
+
+
+@busquedas.kodo | Viernes 11/7
+🎬 Reel — Humor: la búsqueda laboral en fases
+CONCEPTO: Formato POV o texto en pantalla con cara de reacción.
+
+
+"POV: mandaste 50 CVs esta semana"
+
+
+Día 1: confianza absoluta 💪 Día 3: "seguro están procesando" Día 7: "quizás no llegó" Día 10: revisás el correo de spam Día 14: (pausa)... te llama tu mamá para saber cómo va la búsqueda.
+
+
+La única llamada de la semana.
+
+
+COPY:
+
+
+La búsqueda laboral tiene sus fases y todos las conocemos.
+
+
+Semana 1: confianza total. Semana 2: calma, el proceso es así. Semana 3: revisás el correo de spam. Semana 4: le cambiás el tono al "en búsqueda activa" del perfil de LinkedIn.
+
+
+Si llegaste hasta acá: no estás solo/a, y el problema no sos vos.
+
+
+¿En qué semana estás? 👇
+
+
+📲 HISTORIAS:
+
+
+* H1: Meme o imagen de alguien esperando el teléfono
+* H2: Encuesta — "¿En qué fase estás?" → Semana 1 💪 / Semana 2-3 😅 / Semana 4+ 🥲
+* H3: "Si estás en semana 4+, escribinos." → DM
+
+
+________________
+
+
+
+
+________________
+
+
+SEMANA 3 | 14 jul — 20 jul
+Foco: Día de la cápsula IA + tease Entrevistas (4/8) + inicio lanzamiento Kodo Táctica
+
+
+________________
+
+
+
+
+@busquedas.kodo | Martes 15/7
+📚 Carrusel — Esto mata tu CV en los primeros 10 segundos
+* Slide 1 (portada): "Esto mata tu CV en los primeros 10 segundos" — fondo negro bold
+* Slide 2: "Error 1: Objetivo genérico." — "Busco desarrollarme en una empresa dinámica" no le dice nada a ningún ATS ni a ningún reclutador. Necesita el puesto específico al que aplicás y dos palabras clave del rol.
+* Slide 3: "Error 2: Columnas y tablas." — Los ATS no las leen. Tu CV se convierte en texto desordenado. Formato limpio, una sola columna.
+* Slide 4: "Error 3: Logros sin números." — "Lideré un equipo" es información vacía. "Lideré un equipo de 8 personas y redujimos el tiempo de entrega un 30%" es información que se recuerda.
+* Slide 5: "Error 4: Foto en el CV." — En muchos contextos activa sesgos inconscientes. En otros, el ATS directamente la descarta. Salvo que el mercado al que aplicás lo pida explícitamente, sacala.
+* Slide 6: "Error 5: Un solo CV para todo." — El CV tiene que adaptarse a cada búsqueda. Las palabras clave del aviso importan. El mismo CV para 50 postulaciones no funciona.
+* Slide 7: "¿Cuántos de estos errores tiene el tuyo? Guardá este carrusel y revisalo hoy."
+* Slide 8 (CTA): "¿Querés que lo auditemos? Escribinos."
+
+
+COPY:
+
+
+El reclutador no rechaza tu CV. Lo rechaza el sistema antes de que llegue a sus manos.
+
+
+Y hay errores concretos que hacen que eso pase — errores que nadie te explicó porque nadie te explicó cómo funciona el proceso.
+
+
+En este carrusel, los 5 más comunes. Guardalo y revisá el tuyo hoy.
+
+
+¿Cuántos encontraste? Contanos 👇
+
+
+📲 HISTORIAS:
+
+
+* H1: "¿Revisaste tu CV con estos 5 criterios?" → Sí / Ahora lo hago
+* H2 (al día siguiente): "Si querés que lo auditemos, escribinos." → DM
+
+
+________________
+
+
+@busquedas.kodo | Jueves 17/7
+🎬 Reel — Presentación Kodo Táctica
+SCRIPT (50 seg):
+
+
+Founder a cámara. Tono directo, sin rodeos.
+
+
+"Mucha gente nos pregunta cómo puede trabajar con nosotras desde el lado del candidato. Acá está la respuesta.
+
+
+Kodo Táctica es nuestra aceleradora de empleabilidad.
+
+
+No somos una consultora que te hace el CV. Somos un entrenamiento para que entiendas cómo funciona el mercado laboral hoy — los filtros automáticos, los procesos de selección, el mercado oculto, la negociación — y para que puedas manejarlo de forma autónoma.
+
+
+Trabajamos con profesionales que se están reinsertando en el mercado. Con los que quieren dar un salto estratégico. Y con los que están dando sus primeros pasos y no tienen referencia.
+
+
+Si te identificás con alguno de estos, el link está en bio. Y si tenés preguntas, escribinos."
+
+
+COPY:
+
+
+Por si todavía no nos conocés de este lado:
+
+
+Kodo Táctica es nuestra aceleradora de empleabilidad.
+
+
+No te hacemos el CV. Te enseñamos a entender cómo funciona el sistema — el ATS, el proceso de selección, el mercado oculto, la negociación — para que puedas manejarlo solo/a, ahora y siempre.
+
+
+Trabajamos con profesionales que: → Se están reinsertando después de un tiempo fuera del mercado → Quieren dar un salto y no saben por dónde empezar → Están en sus primeros pasos y necesitan orientación real
+
+
+Si te identificás, el link está en bio. Y si tenés preguntas, escribinos directamente.
+
+
+📲 HISTORIAS:
+
+
+* H1: Encuesta — "¿Habías escuchado hablar de Kodo Táctica?" → Sí / No
+* H2: "¿Cuál de estas situaciones es la tuya?" → Reinserción / Salto profesional / Primeros pasos
+* H3: "Todos tienen un camino en Kodo Táctica. Escribinos." → DM
+
+
+________________
+
+
+
+
+________________
+
+
+SEMANA 4 | 21 jul — 31 jul
+Foco: Prueba social (caso Atrezzo), cierre del mes con autoridad, lanzamiento Kodo Táctica
+
+
+________________
+
+
+
+
+________________
+
+
+@busquedas.kodo | Martes 22/7
+📚 Carrusel — El mercado oculto: cómo acceder al 70% de los trabajos que nunca se publican
+* Slide 1 (portada): "El mercado oculto: el 70% de los trabajos nunca se publica" — alto impacto
+* Slide 2: "Si solo aplicás a búsquedas publicadas, estás compitiendo por el 30% restante. Con cientos de personas más."
+* Slide 3: "¿Qué es el mercado oculto?" — Posiciones que se cubren por referidos, por contacto directo, por perfiles que alguien ya tenía en mente antes de abrir una búsqueda formal.
+* Slide 4: "Cómo acceder: paso 1." — Mapeá a las personas que toman decisiones en las empresas que te interesan. No al área de RRHH — a los líderes de área, a los gerentes, a los founders.
+* Slide 5: "Paso 2: Generá un contacto de valor." — No mandés el CV sin contexto. Presentate con claridad: quién sos, qué hacés, qué estás buscando, por qué esa empresa te interesa específicamente.
+* Slide 6: "Paso 3: Activá tu red." — Contá que estás en búsqueda. La mayoría de las oportunidades llegan por alguien que te conoce. El silencio sobre tu búsqueda te cuesta oportunidades.
+* Slide 7: "El mercado oculto no es para los que tienen contactos. Es para los que saben cómo construirlos."
+* Slide 8 (CTA): "Guardá este carrusel. Y si querés aprender a moverte así estratégicamente, escribinos."
+
+
+COPY:
+
+
+El 70% de los trabajos nunca se publican.
+
+
+Se cubren por contactos directos, por referidos, por perfiles que alguien tenía en mente antes de abrir una búsqueda.
+
+
+Si solo aplicás a lo que está publicado, estás peleando por el 30% restante con cientos de personas más.
+
+
+En este carrusel: cómo acceder al mercado oculto — sin contactos mágicos, con estrategia.
+
+
+¿Te lo sabías? Guardalo y contanos 👇
+
+
+📲 HISTORIAS:
+
+
+* H1: Encuesta — "¿Sabías que el 70% de los trabajos no se publica?" → Sí / No
+* H2: "Mañana te contamos cómo acceder." → teaser del carrusel
+
+
+________________
+
+
+@busquedas.kodo | Jueves 24/7
+🎬 Reel — Kodo Táctica: abrimos cupos
+SCRIPT (40 seg):
+
+
+Founder a cámara. Tono de lanzamiento — claro, sin sobreactuación.
+
+
+"Ya les contamos qué es Kodo Táctica. Ya les mostramos cómo funciona el mercado laboral hoy.
+
+
+Ahora te cuento cómo sumarte.
+
+
+Abrimos cupos para la primera ronda de Kodo Táctica.
+
+
+Trabajamos con profesionales en reinserción laboral, con los que quieren dar un salto estratégico, y con los que recién están empezando y necesitan orientación real.
+
+
+No te hacemos el CV. Te enseñamos el sistema para que puedas manejarlo de forma autónoma — siempre.
+
+
+Los cupos son limitados para garantizar la calidad del acompañamiento.
+
+
+Link en bio."
+
+
+COPY:
+
+
+Abrimos cupos para Kodo Táctica. 🚀
+
+
+Si estás en reinserción laboral, buscando un salto estratégico, o dando tus primeros pasos en el mercado — esto es para vos.
+
+
+Qué es: una aceleradora de empleabilidad. No te hacemos el CV. Te enseñamos cómo funciona el mercado laboral — los filtros, los procesos, la negociación — para que puedas manejarlo solo/a, ahora y siempre.
+
+
+Cómo funciona: diagnóstico inicial + programa personalizado según tu situación + acompañamiento real de parte nuestra.
+
+
+Cupos limitados para garantizar la calidad de cada proceso.
+
+
+Para saber más y anotarte: link en bio. O escribinos directamente 👇
+
+
+📲 HISTORIAS:
+
+
+* H1: "Abrimos cupos 🔥" + countdown
+* H2: "¿Cuál de estas situaciones es la tuya?" → Reinserción / Salto profesional / Primeros pasos
+* H3: "Todos tienen un camino en Kodo Táctica. Escribinos." → DM sticker
+
+
+
+
+Kodo
+@kodohr_ | Lunes 29/6
+🎬 Reel — Tu empresa creció pero sigue operando igual que antes
+SCRIPT (45 seg):
+
+
+Founder a cámara, tono directo. Con diferentes cortes 
+
+
+Cande:
+
+
+"Tu empresa pasó de 5 personas a 20. Entraron más clientes, proyectos más grandes, más responsabilidades.
+
+
+Pero los procesos con los que operás hoy, ¿son los mismos de cuando eran un equipo chico?
+
+
+La mayoría de las veces, sí. Y ese desfase tiene consecuencias concretas.
+
+
+Mer: 
+
+
+Se ve en el email que nadie sabe quién tiene que responder. En el proyecto entregado tarde porque no había un responsable claro. En un nuevo colaborador que a los tres meses todavía no sabe exactamente qué se espera de él.
+
+
+No es falta de voluntad. Es que la estructura no creció al mismo ritmo que el negocio.
+
+
+En Kodo diseñamos los procesos y metodologías que hacen que ese crecimiento sea sostenible — no solo posible.
+
+
+Cande aparece en camara: 
+
+
+¿Tu empresa está en este momento? Contanos en los comentarios."
+
+
+COPY:
+
+
+Tu equipo creció. Tu facturación también. Pero si los procesos con los que operás son los mismos de cuando eran 5 personas, el crecimiento va a empezar a pasarte factura.
+
+
+El desorden operativo no llega de golpe. 
+No es un problema de personas. Es un problema de diseño.
+
+
+En Kodo trabajamos el diseño de las operaciones que hacen que el crecimiento sea sostenible — desde los flujos de trabajo hasta la estructura de roles y la capacidad del equipo.
+
+
+¿Tu empresa está en este momento? Contanos en comentarios 👇
+
+
+📲 HISTORIAS:
+
+
+* H1 (mismo día, antes del reel): Texto animado sobre fondo lima — "¿Tu empresa creció pero sigue funcionando igual que antes? 👀" + encuesta: Totalmente / Más o menos
+* H2 (al día siguiente): Resultados de la encuesta + "Si votaste 'totalmente', este reel es para vos" → swipe al reel del feed
+
+
+________________
+
+
+
+
+@kodohr_ | Jueves 2/7
+🎬 Reel — Cápsula IA: por qué ya no es opcional en reclutamiento
+SCRIPT (35 seg):
+
+
+Referencia: https://ar.pinterest.com/pin/481181541460088665/
+La grabación va partida: founder haciendo cosas de forma manual: reunión + escribiendo + leyendo un cv / la IA haciendo las cosas de forma automática. 
+
+
+Mer a camara: "La inteligencia artificial ya está en el proceso de selección.
+
+
+Corte de pantalla y voz en off: En los sistemas ATS que filtran CVs en segundos. En las herramientas que generan descripciones de búsqueda. En los asistentes que analizan entrevistas.
+
+
+La pregunta no es si la IA va a cambiar el reclutamiento. Ya lo cambió.
+
+
+La pregunta es si vos la estás usando a tu favor — o si te está dejando atrás.
+
+
+Cande a camara (con espacio para que vaya apareciendo texto de info en pantalla)
+El 14 de julio arrancamos la primera cápsula de nuestra Formación en Reclutamiento Estratégico: Reclutamiento con IA. Dos horas, casos reales, herramientas concretas.
+
+
+Inscribite en el link en bio."
+
+
+COPY:
+
+
+La IA ya está en el proceso de selección. No como tendencia — como realidad operativa.
+
+
+Los reclutadores que la integran a su flujo de trabajo toman mejores decisiones, más rápido y con menos desgaste. Los que no, están compitiendo con una mano atada.
+
+
+14 de julio — Cápsula de Reclutamiento con IA.
+
+
+2 horas. Casos reales. Herramientas que podés usar al día siguiente.
+
+
+Cupos limitados — inscribite en el link de bio 🔗
+
+
+📲 HISTORIAS:
+
+
+* H1: Countdown sticker al 14/7 sobre fondo azul — "Faltan X días"
+* H2: Encuesta — "¿Ya estás usando IA en tu proceso de reclutamiento?" → Sí / No / Quiero aprender
+* H3 (al día siguiente): Resultados + "Si respondiste 'quiero aprender' — el 14 de julio te esperamos" → link a inscripción
+
+
+________________
+
+
+
+
+@kodohr_ | Lunes 6/7
+🎬 Reel — Cápsula IA: Los que no se inscribieron
+
+
+Referencia: https://ar.pinterest.com/pin/7881368094724356/
+Texto “ Y por acá están todos los reclutadores que todavía no se inscribieron a la Cápsula de IA”
+
+
+COPY:
+
+
+14 de julio - 2 horas que cambian cómo reclutás para siempre.
+Inscripciones en el link de la bio. 
+
+
+Cupos limitados — inscribite en el link de bio 🔗
+
+
+________________
+
+
+
+
+@kodohr_ | Martes 7/7
+Carrusel - Cápsula IA: Lo que vas a aprender
+📚 Carrusel — 5 cosas que podés hacer con IA en tu proceso de reclutamiento HOY (apoyo al reel)
+* Slide 1 (portada): "5 cosas que podés hacer con IA en tu proceso de reclutamiento HOY" — fondo azul, tipografía bold
+* Slide 2: "1. Redactar la job description en menos de 10 minutos" — breve descripción: pedirle a la IA que genere la descripción basada en el rol, la empresa y el perfil buscado. Resultado: descripciones más precisas, menos sesgadas, más rápidas.
+* Slide 3: "2. Crear las preguntas de entrevista basadas en el perfil exacto" — no preguntas genéricas. IA que cruza los requisitos del rol con las competencias que querés evaluar.
+* Slide 4: "3. Resumir y comparar CVs sin sesgos" — pedirle un resumen estructurado de cada perfil usando los mismos criterios para todos.
+* Slide 5: "4. Armar el plan de onboarding del candidato que vayas a contratar" — antes de que empiece, ya tenés los primeros 30 días diseñados.
+* Slide 6: "5. Analizar la propuesta salarial vs. mercado en tiempo real" — con contexto de industria, seniority y región.
+* Slide 7 (CTA): "¿Querés aprender a hacer todo esto con casos reales? → Cápsula IA — 14 de julio. Link en bio."
+
+
+COPY:
+
+
+La IA en reclutamiento no es el futuro. Es lo que ya está pasando.
+
+
+Y no hace falta ser tech para usarla. Hace falta saber qué pedirle.
+
+
+En este carrusel: 5 cosas concretas que podés hacer hoy con IA en tu proceso de selección.
+
+
+Guardalo. Y si querés verlo en la práctica, el 14 de julio te mostramos cómo — link en bio 🔗
+
+
+📲 HISTORIAS:
+
+
+* H1: Countdown sticker — "Faltan X días para la Cápsula IA"
+* H2: Quiz — "¿Cuántas de estas 5 cosas ya hacés con IA?" → opciones: Ninguna / 1 o 2 / La mayoría
+* H3 (día siguiente): Resultados + "Si respondiste 'ninguna', el 14/7 es para vos." → link
+
+
+________________
+
+
+
+
+@kodohr_ | Lunes 13/7 — DÍA PREVIO A LA CÁPSULA IA
+📲 Historias — MAÑANA
+* Último día para inscribirte a la cápsula de IA - mañana nos encontramos 18.30 
+
+
+________________
+
+
+
+
+@kodohr_ | Martes 14/7 — DÍA DE LA CÁPSULA IA
+📲 Historias — Es hoy
+* H1 (a la mañana, temprano): Countdown llegó a 0 — "Hoy es el día 🚀 Cápsula de Reclutamiento con IA" — fondo lima, tipografía bold
+* H2: "Para los que ya están inscriptos: los esperamos hoy. Detalles de acceso en el mail que recibieron."
+* H3 (después del evento): Foto o clip del momento — "Así fue la primera cápsula. Gracias a todos los que se sumaron."
+* H4: "¿Te perdiste esta? La próxima es el 4 de agosto — Entrevistas Estratégicas." → link de pre-inscripción
+
+
+________________
+
+
+
+
+
+
+@kodohr_ | Jueves 16/7
+🎬 Reel — Qué mira Kodo cuando entra a trabajar con una empresa
+SCRIPT (50 seg):
+
+
+Founder a cámara. Tono de experta, no de vendedora.
+Referencia de tomas: https://ar.pinterest.com/pin/1030409589794796794/
+
+
+"Cuando una empresa nos convoca, lo primero que hacemos no es proponer soluciones. Es entender.
+
+
+Miramos tres cosas.
+
+
+Uno: cómo están diseñadas las operaciones actuales. Qué procesos existen, cuáles son informales, dónde están los cuellos de botella reales que nadie habla abiertamente.
+
+
+Dos: cómo está el equipo. No solo quién hace qué — sino qué capacidad real tiene para lo que viene.
+
+
+Tres: hacia dónde va el negocio. Porque no diseñamos para lo que son hoy, sino para lo que necesitan ser en 12 o 18 meses.
+
+
+El diagnóstico no es un trámite. Es la mitad del trabajo.
+
+
+Y la otra mitad es construir, con el equipo, las operaciones que hacen posible ese futuro."
+
+
+COPY:
+
+
+Cuando llegamos a trabajar con una empresa, lo primero no es proponer. Es entender.
+
+
+Miramos tres cosas:
+
+
+1. Las operaciones actuales — qué procesos existen, cuáles son solo costumbre, dónde están los cuellos de botella reales.
+
+
+2. El equipo — no el organigrama. La capacidad real para lo que viene.
+
+
+3. El futuro del negocio — porque no diseñamos para quiénes son hoy, sino para quiénes necesitan ser en 12 meses.
+
+
+¿Cuándo fue la última vez que alguien miró así tu operación? 👇
+
+
+📲 HISTORIAS:
+
+
+* H1: Encuesta — "¿Tu empresa tiene un diagnóstico operativo formal?" → Sí / No / ¿Qué es eso?
+* H2: Resultado + "Si respondiste 'no' o '¿qué es eso?', hablemos." → DM
+
+
+________________
+
+
+
+
+
+
+@kodohr_ | Lunes 20/07 - Lau
+📚 Carrusel — Se viene la Cápsula de Entrevistas — 4 de agosto
+* Slide 1 (portada): Cápsula Entrevistas Estratégicas — 4 de agosto"
+* Slide 2: "Una entrevista mal diseñada no solo pierde al candidato correcto. Confirma al incorrecto."
+* Slide 3: "Qué hace que una entrevista sea estratégica: saber qué preguntar." — No lo que se estila preguntar. Lo que te dice algo real sobre el candidato en ese rol específico.
+* Slide 4: "Saber escuchar." — Las respuestas más reveladoras no siempre están en lo que se dice. Están en cómo se estructura el pensamiento, en las pausas, en lo que se omite.
+* Slide 5: "Saber evaluar." — Con criterios definidos antes de que entre el primer candidato. No por impresión general.
+* Slide 6: "Saber decidir." — Sin apuros. Sin sesgos de confirmación. Con datos comparables entre candidatos.
+* Slide 7 (CTA): "El 4 de agosto te mostramos cómo. Pre-inscripción abierta — link en bio."
+
+
+COPY:
+
+
+Ya terminó la Cápsula de IA. La próxima ya tiene fecha.
+
+
+4 de agosto — Entrevistas Estratégicas.
+
+
+La entrevista es el momento donde más se pierde talento por errores que se pueden evitar: preguntas genéricas, evaluación por intuición, decisiones sin criterio claro.
+
+
+En esta cápsula trabajamos cómo hacer entrevistas que realmente te digan algo útil — y cómo tomar decisiones de selección con criterio real.
+
+
+Pre-inscripción abierta — link en bio 🔗
+
+
+📲 HISTORIAS:
+
+
+* H1: "¿Cuál es tu mayor desafío en las entrevistas de selección?" → caja de respuesta abierta
+* H2: "El 4 de agosto lo trabajamos. Pre-inscripción — link en bio." → countdown sticker
+
+
+________________
+
+
+
+
+@kodohr_ | Lunes 21/7
+🎬 Reel — Servicios: qué hacemos exactamente
+Referencia:
+https://ar.pinterest.com/pin/1100145015230607342/
+
+
+Imagenes y tomas de cada servicios
+Te lo explicamos en el caption
+
+
+COPY:
+
+
+¿Qué hacemos exactamente en Kodo HR?
+
+
+La respuesta larga: diseñamos las operaciones que hacen que tu empresa pueda crecer sin que todo se caiga.
+
+
+La respuesta práctica:
+
+
+People Ops — diseño de los procesos que involucran a tu equipo: onboarding, estructura de roles, desempeño, flujos de trabajo entre áreas.
+
+
+Kodo Lab — capacitación y formación a medida. Programas que se construyen para lo que tu equipo específicamente necesita, no cursos genéricos.
+
+
+Reclutamiento — búsqueda y selección estratégica. Con la mirada de quien entiende tanto el negocio como el mercado laboral.
+
+
+Tres servicios. Una mirada. El objetivo es el mismo: que tu empresa opere mejor.
+
+
+¿Cuál es el que más necesitás ahora? 👇
+
+
+📲 HISTORIAS:
+
+
+* H1: "¿Qué es lo primero que organizarías en tu empresa si pudieras?" → poll: Procesos / Equipo / Reclutamiento / Todo
+* H2: Resultado + "Por ahí empezamos. Hablemos." → DM
+
+
+
+
+@kodohr_ | Viernes 24/7
+🎬 Reel — Caso Atrezzo: cómo construimos las operaciones de un equipo en crecimiento
+
+
+Este le daria una vuelta de rosca para que quede como una mezcla de nosotras como intro + algo de los testimonios! 
+
+[a]
+SCRIPT (55 seg):
+
+
+Founder a cámara. Storytelling, no presentación.
+
+
+"Cuando llegamos a trabajar con Atrezzo, lo primero que hicimos fue entender cómo operaban.
+
+
+Había un equipo con talento real y muchas ganas. Pero los procesos eran todos informales. Nadie tenía claro cuál era el flujo de trabajo estándar para un proyecto nuevo. Los onboardings se hacían de memoria. Y las decisiones importantes dependían siempre de las mismas dos o tres personas.
+
+
+Diseñamos con ellos lo que les faltaba. Desde cómo ingresa una persona nueva al equipo hasta cómo se gestiona un proyecto de principio a fin.
+
+
+Hoy el equipo opera con más autonomía. Los tiempos de entrega se acortaron. Y los líderes pueden soltar sin que todo se caiga.
+
+
+Eso es lo que construimos."
+
+
+COPY:
+
+
+Cuando llegamos a Atrezzo, había talento de sobra. Lo que faltaba era estructura.
+
+
+Procesos informales, onboardings de memoria, decisiones que dependían siempre de las mismas personas.
+
+
+Trabajamos con ellos para construir lo que necesitaban: desde el flujo de ingreso de un colaborador nuevo hasta cómo se gestiona un proyecto de punta a punta.
+
+
+El resultado: más autonomía de equipo, menos reprocesos, y líderes que por fin pueden soltar sin que todo se caiga.
+
+
+¿Tu empresa tiene algo similar? Hablemos 👇
+
+
+📲 HISTORIAS:
+
+
+* H1: "¿Tu empresa tiene procesos documentados o todo vive en la cabeza de alguien?" → Documentados / En la cabeza de alguien 😅
+* H2: Resultado + DM si se identifican
+
+
+________________
+
+
+
+
+[a]Ajustar
